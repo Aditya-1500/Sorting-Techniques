@@ -2,7 +2,6 @@
 The repository includes a Graphical User Interface, depicting various Sorting Algorithms, created using PyQt5 in Python. <br>
 => The GUI has been designed using QtDesigner and implemented at the backend using Python3.7 .<br>
 => pyuic5 has been used to convert .ui files to .py files.<br>
-=> In order to implement the GUI in python, PyQt5 has been taken into use.<br>
 
 **Important Points to Note**
 
